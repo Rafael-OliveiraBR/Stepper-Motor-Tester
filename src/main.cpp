@@ -1,3 +1,17 @@
+/***************************************
+* ----------------------------
+*     STEPPER MOTOR TESTER
+* ----------------------------
+* This program allows to test
+* any stepper motor by using
+* accelstepper.h library.
+*
+*
+* Created by: Rafael Oliveira
+* https://github.com/Rafael-OliveiraBR
+****************************************/
+
+
 #include <Arduino.h>
 
 int led = 9;
@@ -8,7 +22,7 @@ void setup() {
 
   digitalWrite(led, HIGH);
   pinMode (sensor, INPUT);
-  
+
   
 }
 
