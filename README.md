@@ -1,3 +1,4 @@
 # Stepper-Motor-Tester
  
-teste de git
+Programa para teste de motores de passo.
+

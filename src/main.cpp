@@ -13,6 +13,7 @@
 
 
 #include <Arduino.h>
+#include <AccelStepper.h>
 
 int led = 9;
 int sensor = 4;
